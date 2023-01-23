@@ -4,11 +4,11 @@ a = Convert.ToInt32(Console.ReadLine());
 b = Convert.ToInt32(Console.ReadLine());
 if (a>b)
 {
- Console.WriteLine("Большее число А");   
+ Console.WriteLine("Большее число = "+a);   
 }
 else
 {
-    Console.WriteLine("Большее число Б");
+    Console.WriteLine("Большее число = "+b);
 }
 
 
